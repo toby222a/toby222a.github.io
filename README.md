@@ -41,7 +41,7 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 •	Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 •	Data Source Specification (FROM): Specified the tables used as data sources for retrieval 
 •	Query tool (Join, Left join)
-•	String function (upper, lower, substring, char index)
+•	String function (upper, lower, substring, char index,concat)
 •	Wildcards (%)
 •	Like operator 
 
