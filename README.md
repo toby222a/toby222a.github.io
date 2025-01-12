@@ -1,4 +1,4 @@
-**PROJECT 1** 
+#PROJECT 1** 
 
 
 **Title:** [global health record project](global health record project.xlsx)
@@ -24,5 +24,52 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 
 **Dashboard Overview:**
 ![globalhealthvisuals](globalhealthvisuals.png)
+
+
+#PROJECT 3
+
+
+**Title:**Company QTC staff records- **SQL** data manipulation and interogation 
+
+
+**SQL Code:** [Company QTC SQL code](https://github.com/toby222a/toby222a.github.io/blob/main/comapny_staff_records.sql)
+
+
+**SQL Skills Used:**
+•	Data Retrieval (SELECT): Queried and extracted specific information from the database.
+•	Data Aggregation (COUNT): counted records to analyse data trends.
+•	Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+•	Data Source Specification (FROM): Specified the tables used as data sources for retrieval 
+•	Query tool (Join, Left join)
+•	String function (upper, lower, substring, char index)
+•	Wildcards (%)
+•	Like operator 
+
+
+
+**Project Description:** This project involves analyzing employee-related data to understand workforce distribution, salary trends, and position hierarchies. The goal is to derive insights into employee roles, their compensation, and tenure in the organization. The analysis uses SQL queries to handle data extraction, transformation, and insight generation. the key findings are as follows: 
+ •	Age Analysis: Found employees born between 02/05/1970 and 31/12/1995.
+	•	Employee Listing: Retrieved all employee records ordered by their last name.
+	•	Name Filtering: Fetched employees with last names ending in ‘A’.
+	•	Address-Based Query: Found employees located in “DELHI (DEL)”.
+	•	Managerial Roles: Listed all employees holding managerial positions.
+	•	Department Insights: Provided department-wise employee counts sorted by size.
+	•	HR Demographics: Retrieved male employees in the HR department.
+	•	Specific Salaries: Identified the two lowest and highest salaries.
+ Uppercase Formatting: Displayed first names of employees in uppercase.
+	•	Department Analysis: Counted the number of employees working in the HR department.
+	•	Current Date: Retrieved the current system date.
+	•	String Operations: Extracted the first four characters of last names and place names from addresses.
+	•	Table Duplication: Created a new table by copying data and structure from an existing one.
+	•	Salary Range: Listed employees with salaries between 50,000 and 100,000.
+	•	Name Search: Found employees whose names start with ‘S’.
+	•	Top N Records: Retrieved a specified number of top records.
+	•	Full Name Creation: Combined first and last names into a single “FullName” column.
+
+
+ 
+**Technology used: SQL server** SQL Server
+
+
 
  
