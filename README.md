@@ -4,6 +4,7 @@
 **Title:** [global health record project](global health record project.xlsx)
 
 **Tools Used:** Microsoft excel (data cleaning, pivot table, slicers,  get pivot data, dashboard, pivot charts, data visualisation) 
+
 **Project Description:** This project involves analysing a global health dataset that spans various countries, years, and disease categories. The objective is to investigate trends in disease prevalence, incidence, mortality, and recovery rates, along with other socioeconomic factors such as education index, urbanization, and income levels. The analysis aims to provide actionable insights into global health challenges and identify areas for improvement in healthcare systems. The dashboard includes the following features:
 Top 10 countries with highest prevalence rate: it shows the top 10 countries with high prevalence rate
 age group affected by disease: this explains how disease affects based on the age group
