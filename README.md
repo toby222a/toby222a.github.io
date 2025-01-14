@@ -54,7 +54,8 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 
 **Key findings:** 
 
-**Dashboard Overview:** [AddidassalesDashboard](AddidassalesDashboard.png)
+**Dashboard Overview:** 
+![AddidassalesDashboard](AddidassalesDashboard.png)
 
 
 
