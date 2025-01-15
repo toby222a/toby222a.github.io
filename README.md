@@ -34,7 +34,7 @@ sum of income per country (top 5): this shows how much income made based on each
 
 •	Mortality and Recovery Rates: High mortality rates are associated with diseases such as Ebola, while diseases like COVID-19    had relatively high recovery rates in recent years.
 
-•	Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease       prevalence rates and higher vaccine availability.
+•	Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease         prevalence rates and higher vaccine availability.
 
 •	Urbanization and Health: Urbanization rates appeared to impact the incidence of certain diseases, indicating a potential       link between urban density and health outcomes.
 
