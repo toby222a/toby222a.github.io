@@ -30,13 +30,13 @@ sum of income per country (top 5): this shows how much income made based on each
 
 **Key findings:** 
 
-•	Prevalence and Incidence Trends: Diseases like COVID-19 and Ebola showed varying rates of prevalence and incidence across   regions, with noticeable spikes in specific years.
+•	Prevalence and Incidence Trends: Diseases like COVID-19 and Ebola showed varying rates of prevalence and incidence across      regions, with noticeable spikes in specific years.
 
-•	Mortality and Recovery Rates: High mortality rates are associated with diseases such as Ebola, while diseases like COVID-19   had relatively high recovery rates in recent years.
+•	Mortality and Recovery Rates: High mortality rates are associated with diseases such as Ebola, while diseases like COVID-19    had relatively high recovery rates in recent years.
 
-•	Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease   prevalence rates and higher vaccine availability.
+•	Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease       prevalence rates and higher vaccine availability.
 
-•	Urbanization and Health: Urbanization rates appeared to impact the incidence of certain diseases, indicating a potential   link between urban density and health outcomes.
+•	Urbanization and Health: Urbanization rates appeared to impact the incidence of certain diseases, indicating a potential       link between urban density and health outcomes.
 
 
 **Dashboard Overview:**
@@ -118,7 +118,7 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
 **the key findings are as follows:**
 
- •Age Analysis: Found employees born between 02/05/1970 and 31/12/1995.
+•Age Analysis: Found employees born between 02/05/1970 and 31/12/1995.
  
 •	Employee Listing: Retrieved all employee records ordered by their last name.
 
@@ -134,7 +134,7 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
 •	Specific Salaries: Identified the two lowest and highest salaries.
 
- Uppercase Formatting: Displayed first names of employees in uppercase.
+  Uppercase Formatting: Displayed first names of employees in uppercase.
  
 •	Department Analysis: Counted the number of employees working in the HR department.
 
