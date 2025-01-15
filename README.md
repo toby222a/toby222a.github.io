@@ -7,7 +7,9 @@
 
 **Project Description:** 
 
-This project involves analysing a global health dataset that spans various countries, years, and disease categories. The objective is to investigate trends in disease prevalence, incidence, mortality, and recovery rates, along with other socioeconomic factors such as education index, urbanization, and income levels. The analysis aims to provide actionable insights into global health challenges and identify areas for improvement in healthcare systems. The dashboard includes the following features:
+This project involves analysing a global health dataset that spans various countries, years, and disease categories. The objective is to investigate trends in disease prevalence, incidence, mortality, and recovery rates, along with other socioeconomic factors such as education index, urbanization, and income levels. The analysis aims to provide actionable insights into global health challenges and identify areas for improvement in healthcare systems. 
+
+**The dashboard includes the following features:**
 
 Top 10 countries with highest prevalence rate: it shows the top 10 countries with high prevalence rate
 
@@ -28,13 +30,13 @@ sum of income per country (top 5): this shows how much income made based on each
 
 **Key findings:** 
 
-Prevalence and Incidence Trends: Diseases like COVID-19 and Ebola showed varying rates of prevalence and incidence across regions, with noticeable spikes in specific years.
+•	Prevalence and Incidence Trends: Diseases like COVID-19 and Ebola showed varying rates of prevalence and incidence across   regions, with noticeable spikes in specific years.
 
-Mortality and Recovery Rates: High mortality rates are associated with diseases such as Ebola, while diseases like COVID-19 had relatively high recovery rates in recent years.
+•	Mortality and Recovery Rates: High mortality rates are associated with diseases such as Ebola, while diseases like COVID-19   had relatively high recovery rates in recent years.
 
-Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease prevalence rates and higher vaccine availability.
+•	Socioeconomic Correlations: Countries with higher per capita income and education indices tended to have lower disease   prevalence rates and higher vaccine availability.
 
-Urbanization and Health: Urbanization rates appeared to impact the incidence of certain diseases, indicating a potential link between urban density and health outcomes.
+•	Urbanization and Health: Urbanization rates appeared to impact the incidence of certain diseases, indicating a potential   link between urban density and health outcomes.
 
 
 **Dashboard Overview:**
@@ -52,7 +54,30 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 
 **Project Description:**
 
+I Developed a dynamic and interactive sales dashboard using Excel to analyze sales performance across various dimensions, including region, product, retailer, and time period.
+
+**Key Responsibilities:**
+
+•	Extracted, cleaned, and modeled sales data to deliver actionable insights.
+
+•	Created intuitive visualizations such as bar charts, pie charts, and line graphs to communicate trends effectively.
+
+•	Implemented slicers for user-friendly filtering by invoice date, region, product, and retailer.
+
+•	Delivered insights into profitability and sales trends to drive data-informed decision-making.
+
 **Key findings:** 
+
+•	Total Sales by Retailer: West Gear had the highest total sales.
+
+•	Sales Method Analysis: Online sales accounted for 38% of total sales.
+
+•		Regional Profit Distribution: The West region generated the highest total profit.
+
+•	Top Performing Cities: Charleston and Miami ranked highest in total sales.
+
+•		Retailer-Product Performance: Men’s Athletic Footwear performed exceptionally well across retailers.
+
 
 **Dashboard Overview:** 
 ![AddidassalesDashboard](AddidassalesDashboard.png)
@@ -69,6 +94,7 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 
 
 **SQL Skills Used:**
+
 
 •	Data Retrieval (SELECT): Queried and extracted specific information from the database.
 
@@ -88,7 +114,9 @@ Urbanization and Health: Urbanization rates appeared to impact the incidence of 
 
 
 
-**Project Description:** This project involves analyzing employee-related data to understand workforce distribution, salary trends, and position hierarchies. The goal is to derive insights into employee roles, their compensation, and tenure in the organization. The analysis uses SQL queries to handle data extraction, transformation, and insight generation. the key findings are as follows: 
+**Project Description:** This project involves analyzing employee-related data to understand workforce distribution, salary trends, and position hierarchies. The goal is to derive insights into employee roles, their compensation, and tenure in the organization. The analysis uses SQL queries to handle data extraction, transformation, and insight generation. 
+
+**the key findings are as follows:**
 
  •Age Analysis: Found employees born between 02/05/1970 and 31/12/1995.
  
