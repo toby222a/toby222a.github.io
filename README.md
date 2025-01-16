@@ -87,7 +87,7 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 #PROJECT 3
 
 
-**Title:**Company QTC staff records- **SQL** data manipulation and interogation 
+**Title:** Company QTC staff records- **SQL** data manipulation and interogation 
 
 
 **SQL Code:** [Company QTC SQL code](https://github.com/toby222a/toby222a.github.io/blob/main/comapny_staff_records.sql)
@@ -155,6 +155,34 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
  
 **Technology used: SQL server** SQL Server
+
+
+#PROJECT 4
+
+
+**Title:**  Car Trader data- **SQL** data manipulation and interogation 
+
+**SQL CODE** 
+
+
+**SQL Skills Used:**
+
+
+•	Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+•	Data Aggregation (COUNT, SUM): counted records to analyse data trends and sum of total dataset.
+
+•	Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+•	Data Source Specification (FROM): Specified the tables used as data sources for retrieval 
+ 
+• Comparison operator(<,>,<>,=): these are used to cmpare values in the dataset.
+
+• Order by clause and Group by clause are used to sort and group results in the data set.
+
+
+
+
 
 
 
