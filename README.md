@@ -162,7 +162,8 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
 **Title:**  Car Trader data- **SQL** data manipulation and interogation 
 
-**SQL CODE** 
+**SQL CODE** [cardatasales](https://github.com/toby222a/toby222a.github.io/blob/main/cardatasales.sql)
+
 
 
 **SQL Skills Used:**
