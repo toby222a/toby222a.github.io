@@ -135,4 +135,23 @@ from[dbo].['Employee Info$']
  on i.[EmpID]=p.[EmpID]
  where [DateOfJoining] is not null
 
+   --- question 17 join all the records on both table together
+
+SELECT I.[EmpID]
+      ,[EmpFname]
+      ,[EmpLname]
+      ,[Department]
+      ,[Project]
+      ,[Address]
+      ,[DOB]
+      ,[Gender]
+	  ,[EmpPosition]
+	  ,[DateOfJoining]
+	  ,[Salary]
+  FROM [dbo].['Employee Info$'] as I
+  left join 
+[dbo].['Employee position$'] as P
+on
+I.[EmpID]=p.[EmpID]
+
  
