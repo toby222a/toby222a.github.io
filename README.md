@@ -148,8 +148,12 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 • Department Distribution:
 The HR and Admin departments have the highest number of employees (2 each), while the Account department has only 1 employee.
 
+• Gender Distribution:
+Male: 3 employees & Female: 2 employees
+
 • Department and Project Balance:
 The distribution of employees across departments and projects is uneven. Efforts could be made to balance the workforce more evenly across different departments and projects.
+
 
  
 **Technology used: SQL server** SQL Server
