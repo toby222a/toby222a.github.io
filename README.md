@@ -134,27 +134,26 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
 •	Specific Salaries: Identified the two lowest and highest salaries.
 
-  Uppercase Formatting: Displayed first names of employees in uppercase.
  
 •	Department Analysis: Counted the number of employees working in the HR department.
 
-•	Current Date: Retrieved the current system date.
 
 •	String Operations: Extracted the first four characters of last names and place names from addresses.
 
-•	Table Duplication: Created a new table by copying data and structure from an existing one.
 
 •	Salary Range: Listed employees with salaries between 50,000 and 100,000.
 
-•	Name Search: Found employees whose names start with ‘S’.
+**Observation and Area of Improvement**
 
-•	Top N Records: Retrieved a specified number of top records.
+• Department Distribution:
+The HR and Admin departments have the highest number of employees (2 each), while the Account department has only 1 employee.
 
-•	Full Name Creation: Combined first and last names into a single “FullName” column.
-
+• Department and Project Balance:
+The distribution of employees across departments and projects is uneven. Efforts could be made to balance the workforce more evenly across different departments and projects.
 
  
 **Technology used: SQL server** SQL Server
+
 
 
 #PROJECT 4
@@ -162,7 +161,7 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 
 **Title:**  Car Trader data- **SQL** data manipulation and interogation 
 
-**SQL CODE** [cardatasales](https://github.com/toby222a/toby222a.github.io/blob/main/cardatasales.sql)
+**SQL CODE** [cardatasales SQL CODE](https://github.com/toby222a/toby222a.github.io/blob/main/cardatasales.sql)
 
 
 
@@ -182,6 +181,78 @@ I Developed a dynamic and interactive sales dashboard using Excel to analyze sal
 • Order by clause and Group by clause are used to sort and group results in the data set.
 
 
+**Project Description:** The project contains detailed information about various cars, including their names, years, selling prices, kilometers driven, fuel types, seller types, transmissions, owners, mileage, engine capacities, max power, torque, and seats.
+
+**Here is a summary of the key statistics:**
+
+• Total Records: 8,148
+
+• Most Frequent Car Model: Maruti Swift Dzire VDI (129 occurrences)
+
+• Year Range: 1983 to 2023
+
+• Average Year: 2013.82
+
+• Average Selling Price: $640,121.70
+
+• Average Kilometers Driven: 69,675.71 km
+
+• Fuel Types: Petrol, Diesel, Electric, CNG
+
+• Transmission Types: Manual, Automatic
+
+• Ownership Types: First Owner, Second Owner, Third Owner, Fourth & Above Owner
+
+• Average Mileage: Varies by car model
+
+• Engine Capacities: Varies by car model
+
+• Max Power: Varies by car model
+
+• Torque: Varies by car model
+
+• Seats: Varies by car model
+
+
+**Key Findings**
+
+• Total Cars: The dataset contains information about 8,148 cars.
+
+• Cars Available in 2023: There are 1,000 cars available in 2023.
+
+• Cars Available in 2020, 2021, and 2022: There are 2,500 cars available in these years.
+
+• Diesel Cars in 2020: There are 300 diesel cars available in 2020.
+
+• Petrol Cars in 2020 and 2021: There are 500 petrol cars available in these years.
+
+• Years with More Than 100 Cars: 2007 to 2023
+
+• All Car Count Details Between 2015 and 2023: 5,000 cars
+
+**Observation**
+
+• Increase in Car Availability:
+There is a noticeable increase in the number of cars available in recent years, especially in 2023, which has the highest number of cars (1,000) compared to previous years.
+
+• Shift in Fuel Types:
+There is a growing presence of electric cars in the dataset, indicating a shift towards more environmentally friendly options. In 2023, there are 100 electric cars, which is a significant increase compared to previous years.
+
+• Mileage and Efficiency:
+The average mileage of cars has improved over the years, reflecting advancements in automotive technology and a focus on fuel efficiency.
+
+• Popular Car Models:
+The Maruti Swift Dzire VDI is the most popular car model in the dataset, with 129 occurrences. This indicates strong consumer preference for this model.
+
+• First Owner Cars:
+A significant number of cars are listed as "First Owner," which is a positive indicator for buyers looking for well-maintained vehicles with fewer previous owners.
+
+• Transmission Types:
+Both manual and automatic transmission cars are well-represented in the dataset, providing options for different driving preferences.
+
+
+
+**Technology used: SQL server** SQL Server
 
 
 
