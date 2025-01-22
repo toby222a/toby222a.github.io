@@ -316,7 +316,5 @@ Expand in High Revenue Regions: Increase market presence in countries with high 
 Seasonal Promotions: Plan promotions and discounts during peak sales months to maximize revenue.
 
 Dashboard Overview:
-![cookiessalesinsight](cookiessalesinsight.png)
-![ccokiessalesinsight](ccokiessalesinsight2.png)
-
+![cookiesfinancialdataset](cookiesfinancialdataset.png)
  
