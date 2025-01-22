@@ -47,7 +47,7 @@ sum of income per country (top 5): this shows how much income made based on each
 #PROJECT 2
 
 
-**Title:** [ADDIDAS US STORE SALES DATABASE](AdidasDashboard.xlsx)
+**Title:** [ADDIDAS US STORE SALES DATASET](AdidasDashboard.xlsx)
 
 
 **Tools Used:** Microsoft excel (data cleaning, pivot table, slicers, Timeline,  get pivot data, dashboard, pivot charts, data visualisation) 
@@ -315,6 +315,7 @@ Focus on High-Performing Products: Invest more in marketing and production of to
 Expand in High Revenue Regions: Increase market presence in countries with high sales and revenue like Canada.
 Seasonal Promotions: Plan promotions and discounts during peak sales months to maximize revenue.
 
-Dashboard Overview:
+**Dashboard Overview:**
+
 ![cookiesfinancialdataset](cookiesfinancialdataset.png)
  
