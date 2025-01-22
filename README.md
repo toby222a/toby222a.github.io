@@ -259,7 +259,64 @@ Both manual and automatic transmission cars are well-represented in the dataset,
 **Technology used: SQL server** SQL Server
 
 
+#Project 5
+
+**Title:** [Cookies Company Financial Data Set](cookiesdataset.pbix)
 
 
+**Tools Used:** 
+• Power BI
+
+• Power Query Editor
+
+• Dax funtions (Data Analysis Expressions)
+
+• Bar charts, line charts, pie charts.
+
+• Cards: Show key metrics and KPIs.
+
+• Slicers
+
+
+
+**Project Description:** This Project has to do with a cookie company where I analysed the company sales overview, product performance, geological insights to see which country is more efffective, and monthly trends to derive actionable insights.
+
+**sales overview:**
+Total Units Sold: Display the total number of cookies sold.
+Revenue: Show total revenue generated.
+Profit: Highlight total profit.
+
+**Product Performance:**
+Top-Selling Products: Identify which cookie types are selling the most.
+Revenue by Product: Break down revenue by each cookie type.
+Profit by Product: Show profit margins for each cookie type.
+
+**Geographical Insights:**
+Sales by Country: Display sales figures for each country.
+Revenue by Country: Show revenue generated in each country.
+Profit by Country: Highlight profit margins by country.
+
+**Monthly Trends:**
+Monthly Sales: Track sales trends over different months.
+Monthly Revenue: Show revenue trends over time.
+Monthly Profit: Highlight profit trends over the months.
+
+**Key findings:**
+
+High Revenue Products: Chocolate Chip cookies appears to be the highest revenue-generating product.
+
+Geographical Performance: Canada happens to be the leading country in terms of sales and revenue.
+
+Seasonal Trends: Sales are high in the month of October with the total of 821k, Decemebr 621k, and in Novemeber with the total of 489k (Top 3 months). Month of May happens to be the least witht total revenue of 216k indicating a seasonal trend. 
+
+**Observation:**
+Focus on High-Performing Products: Invest more in marketing and production of top-selling cookies like Chocolate Chip.
+
+Expand in High Revenue Regions: Increase market presence in countries with high sales and revenue like Canada.
+Seasonal Promotions: Plan promotions and discounts during peak sales months to maximize revenue.
+
+Dashboard Overview:
+![cookiessalesinsight](cookiessalesinsight.png)
+![ccokiessalesinsight](ccokiessalesinsight2.png)
 
  
